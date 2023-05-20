@@ -47,6 +47,7 @@
 
 /*** N2 - System ***/
 #define ENABLE_PLAYER_PIN_SYSTEM
+#define ENABLE_HIDE_COSTUME_SYSTEM
 
 /*** WJ Features ***/
 #define WJ_SHOW_MOB_INFO
