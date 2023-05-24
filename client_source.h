@@ -60,6 +60,7 @@
 /*** N2 - Environment ***/
 #define REMOVE_SAFEZONE_COLLISION
 #define REMOVE_SHOP_COLLISION
+#define REMOVE_HORSE_COLLISION
 
 /*** WJ Features ***/
 #define WJ_SHOW_MOB_INFO
