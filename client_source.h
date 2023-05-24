@@ -57,6 +57,9 @@
 	#define ENABLE_VIEW_TARGET_PLAYER_HP
 #endif
 
+/*** N2 - Environment ***/
+#define REMOVE_SAFEZONE_COLLISION
+
 /*** WJ Features ***/
 #define WJ_SHOW_MOB_INFO
 #ifdef WJ_SHOW_MOB_INFO
