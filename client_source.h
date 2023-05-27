@@ -3,7 +3,7 @@
 * author :	Varkos
 * source :	Client
 * version :	1.0
-****************************************/
+****************************************/ 
 
 /*** YMIR Locale ***/
 #define LOCALE_SERVICE_EUROPE
@@ -53,11 +53,8 @@
 #define ENABLE_SAFEBOX_MONEY
 #define ENABLE_PLAYER_PIN_SYSTEM
 #define ENABLE_HIDE_COSTUME_SYSTEM
-
 #define ENABLE_VIEW_TARGET_DECIMAL_HP
-#ifdef ENABLE_VIEW_TARGET_DECIMAL_HP
-	#define ENABLE_VIEW_TARGET_PLAYER_HP
-#endif
+#define ENABLE_SPECIAL_INVENTORY_SYSTEM
 
 /*** N2 - Environment ***/
 #define REMOVE_SAFEZONE_COLLISION
