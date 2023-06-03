@@ -49,6 +49,9 @@
 #define ENABLE_BLOCK_TRADABLE_ICON
 #define ENABLE_PICKUP_ITEM_EFFECT
 
+/*** N2 - Messenger ***/
+#define ENABLE_MESSENGER_REMOVE_SYNC
+
 /*** N2 - System ***/
 #define ENABLE_SAFEBOX_MONEY
 #define ENABLE_PLAYER_PIN_SYSTEM
